@@ -1,0 +1,8 @@
+# pqcrypto # Removed - using custom ctypes wrapper for liboqs
+numpy
+pandas
+matplotlib
+seaborn
+# memory_profiler # Keep if benchmark.py memory profiling is still desired
+psutil # Required by benchmark.py for memory profiling
+web3
